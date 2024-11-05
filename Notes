@@ -1,3 +1,7 @@
 This individual is a skilled software developer with hands-on experience in designing and implementing applications using a robust tech stack, including Java, Microservices, Spring Boot, Kafka, SQL, Angular, Docker, Git, and Jenkins. With a strong background in Java, they leverage Spring Boot to develop microservices architectures, ensuring scalability and resilience. They are well-versed in event-driven systems, using Kafka for efficient data streaming and messaging, which contributes to seamless communication between services.
 
 Their proficiency in SQL enables efficient data manipulation and management, while their experience with Angular allows them to develop responsive and dynamic front-end interfaces. They are also adept with Docker, employing containerization to streamline application deployment, and Git for effective version control. With Jenkins, they integrate continuous integration and continuous delivery (CI/CD) practices, ensuring smooth and automated development pipelines. Overall, they bring a comprehensive skill set in modern development tools and practices, contributing to high-performance, scalable, and maintainable software solutions.
+
+1.Designed a tool for fetching applications and business level metrics with parallel 
+
+scheduled polling and further feed the metrics into business analytics systems.
